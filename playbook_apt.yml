@@ -22,6 +22,9 @@
       - docker.io
       - speedtest-cli
       - mupdf-tools
+      - rkhunter
+      - clamav
+      - clamav-daemon
   tasks:
     - name: install deb-utils packages
       apt:

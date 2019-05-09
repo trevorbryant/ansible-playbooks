@@ -60,6 +60,7 @@
       - hashcat
       - hydra
       - recon-ng
+      - hashid
         #      - aircrack-ng
       - airgraph-ng
       - wireshark

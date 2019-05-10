@@ -61,6 +61,7 @@
       - hydra
       - recon-ng
       - hashid
+      - crunch
         #      - aircrack-ng
       - airgraph-ng
       - wireshark
